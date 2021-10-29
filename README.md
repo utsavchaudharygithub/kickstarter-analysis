@@ -47,3 +47,5 @@ Lacked AGE, SEX and GENDER categories.
 
 - What are some other possible tables and/or graphs that we could create?
 More tables could be created based on weather and demographics. Client can also target the AGE and GENDER in order to get better crowdfunding. 
+
+https://www.linkedin.com/in/utsav-chaudhary-b394152b
