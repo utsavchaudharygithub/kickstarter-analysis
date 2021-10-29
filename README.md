@@ -16,9 +16,9 @@ Successful and canceled shows
 ## Analysis and Challenges 
 The client is submitted with different charts and tables using Excel. We extracted and created different sheets based on the single datasheet that was provided to us. We have designed the project to make it easier for our client to filter her findings and plan for future crowdfunding. 
 The data was not sorted properly, hence our company was able to clean the data and change the dates and make it more readable. The client is provided with different statistics and charts for the convenience of Louise, our client. Given is the graph to show how crowdfunding in GB can be successful if we focus in Pop Genre. 
-<img width="354" alt="image" src="https://user-images.githubusercontent.com/91306158/139375803-418faecc-a1fb-4854-89de-ba55540cd994.png">
 
- ![box and whisker plot GB VS Musical](https://user-images.githubusercontent.com/91306158/139376769-2eb70f02-eee8-4b74-974f-2bf20aa2f99e.png)
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/91306158/139375803-418faecc-a1fb-4854-89de-ba55540cd994.png"> 
+<![box and whisker plot GB VS Musical](https://user-images.githubusercontent.com/91306158/139376769-2eb70f02-eee8-4b74-974f-2bf20aa2f99e.png)>
 
 
 ### Analysis of Outcomes and conclusion Based on Launch Date
