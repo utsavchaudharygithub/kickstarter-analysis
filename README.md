@@ -40,7 +40,8 @@ Given the graph most successful category is to focus on Theatre category which h
 
 - What can you conclude about the Outcomes based on Goals?
 Based on goals there were zero canceled show. There were many projects in the area of $1000 to $4900, which was the most successful with 73 percent and 27% failed. Similarly, $45000 to $49000 was the worst one with 100% failed projects. Louise can focus more on medium range projects in order to have more successful projects.
-<img width="360" alt="image" src="https://user-images.githubusercontent.com/91306158/139375879-d3a1631b-a12b-4700-bf70-d84d274cfcb2.png">
+![outcomes based on goals](https://user-images.githubusercontent.com/91306158/140623239-d58c39af-8427-4785-ab17-10b099354251.png)
+
 
 Based on goals there were zero canceled show. There were many projects in the area of $1000 to $4900, which was the most successful with 73 percent and 27% failed. Similarly, $45000 to $49000 was the worst one with 100% failed projects. Louise can focus more on medium range projects in order to have more successful projects.
  
