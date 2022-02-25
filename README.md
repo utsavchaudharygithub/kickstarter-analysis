@@ -12,7 +12,8 @@ Based on launch date
 Based on goals
 Based on pledged amount
 Successful and canceled shows 
-![box and whisker plot GB VS Musical](https://user-images.githubusercontent.com/91306158/139376990-5f5eec83-874f-4ada-8465-41b9a4a6167f.png)
+![box and whisker plot GB VS Musical]
+(https://user-images.githubusercontent.com/91306158/139376990-5f5eec83-874f-4ada-8465-41b9a4a6167f.png)
 
 ## Analysis and Challenges 
 The client is submitted with different charts and tables using Excel. We extracted and created different sheets based on the single datasheet that was provided to us. We have designed the project to make it easier for our client to filter her findings and plan for future crowdfunding. 
@@ -20,13 +21,9 @@ The data was not sorted properly, hence our company was able to clean the data a
 
 <img width="354" alt="image" src="https://user-images.githubusercontent.com/91306158/139375803-418faecc-a1fb-4854-89de-ba55540cd994.png"> 
 
-
-
 ### Analysis of Outcomes and conclusion Based on Launch Date
 Based on launch date, month of May is best month for crowdfunding. Based on theatre- category itself, there were total of 166 shows with 111 successful and just 52 and 3 failed and canceled shows accordingly. On the given chart and graph” Theatre outcomes based on launch date”, there were 1369 shows with 849 successful shows.
 <img width="296" alt="image" src="https://user-images.githubusercontent.com/91306158/139375834-d390b387-f821-405e-a5b2-28a0f3db350b.png">
-
-  
 
 ### Analysis of Outcomes Based on Goals
 
@@ -36,7 +33,6 @@ The main challenge was not clear data. Our company was able to submit clear and 
 Given the graph most successful category is to focus on Theatre category which helps Louise to gain more crowdfunding. The client presented with well=prepared sheet after applying different filters and formulas. We were also able to provide client with different statistics based on categories and countries. Different Pivot tables were created so that client has better understanding of the dataset provided. 
  
 <img width="544" alt="image" src="https://user-images.githubusercontent.com/91306158/139375983-4771f871-feb5-4a29-892e-5b631804362e.png">
-
 
 - What can you conclude about the Outcomes based on Goals?
 Based on goals there were zero canceled show. There were many projects in the area of $1000 to $4900, which was the most successful with 73 percent and 27% failed. Similarly, $45000 to $49000 was the worst one with 100% failed projects. Louise can focus more on medium range projects in order to have more successful projects.
