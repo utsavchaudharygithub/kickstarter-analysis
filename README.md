@@ -12,8 +12,8 @@ Based on launch date
 Based on goals
 Based on pledged amount
 Successful and canceled shows 
-![box and whisker plot GB VS Musical]
-(https://user-images.githubusercontent.com/91306158/139376990-5f5eec83-874f-4ada-8465-41b9a4a6167f.png)
+
+![box and whisker plot GB VS Musical](https://user-images.githubusercontent.com/91306158/139376990-5f5eec83-874f-4ada-8465-41b9a4a6167f.png)
 
 ## Analysis and Challenges 
 The client is submitted with different charts and tables using Excel. We extracted and created different sheets based on the single datasheet that was provided to us. We have designed the project to make it easier for our client to filter her findings and plan for future crowdfunding. 
